@@ -64,4 +64,7 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
   - 5 anos
   - 1 mês
 
+|Exemplo PetShop|
+|:-:|
+|![TRiangulo](petshoptriangulo.png)|
 

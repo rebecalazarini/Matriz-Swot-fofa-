@@ -43,5 +43,25 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
 |:-:|
 |![Matriz](fofapetshop.png)|
 
-# Triângulo de ferro 
+# Triângulo de Ferro 
+
+![Triangulo](triangulo.png)
+
+- Escopo:
+  - Detalha o escopo do seu projeto
+  - Equilibrio 
+  - Ter qualidade
+  - Descrever todo projeto
+  - Detalhar o projeto 
+
+- Custo:
+  - Quantidade de dinheiro
+  - Funcionarios
+  - Caso altere em um, altera nos outros e a qualidade cai
+
+- Prazo:
+  - 2 anos 
+  - 5 anos
+  - 1 mês
+
 

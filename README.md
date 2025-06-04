@@ -45,8 +45,6 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
 
 # Triângulo de Ferro 
 
-![Triangulo](triangulo.png)
-
 - Escopo:
   - Detalha o escopo do seu projeto
   - Equilibrio 
@@ -63,6 +61,9 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
   - 2 anos 
   - 5 anos
   - 1 mês
+
+![Triangulo](triangulo.png)
+
 
 |Exemplo PetShop|
 |:-:|
